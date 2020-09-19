@@ -129,6 +129,7 @@ bash InstallNET.sh -c 6.9 -v 64 -a --mirror 'http://mirror.centos.org/centos'
   https://image.moeclub.org/win7emb_x86.tar.gz
  
 # win8.1emb_x64.tar.gz:
+bash InstallNET.sh -dd 'https://www.lefu.men/gdzl/?id=1cqVl2wSGx92UTdhOxU9pW3wJgmvZMT_J'
   https://image.moeclub.org/GoogleDrive/1cqVl2wSGx92UTdhOxU9pW3wJgmvZMT_J
   https://image.moeclub.org/win8.1emb_x64.tar.gz
 ```
