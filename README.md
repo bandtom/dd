@@ -1,5 +1,3 @@
-bash InstallNET.sh -dd  'https://hii9w-my.sharepoint.com/personal/gpiwnx-j_233455_xyz/_layouts/52/download.aspx?share=Eb6v9UlI3BJFudSzptaJ0PYB8Td_VMES5pI_aemcSyMjlQ'
-
 # 萌咖大佬的一键DD脚本
 
 ## 注意:
