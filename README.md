@@ -124,14 +124,15 @@ bash InstallNET.sh -c 6.9 -v 64 -a --mirror 'http://mirror.centos.org/centos'
 # 当然也可以使用自己GoogleDrive中储存的镜像,使用方式:
   https://image.moeclub.org/GoogleDrive/<File_ID>
  
-# win7emb_x86.tar.gz:
-  https://image.moeclub.org/GoogleDrive/1srhylymTjYS-Ky8uLw4R6LCWfAo1F3s7 
-  https://image.moeclub.org/win7emb_x86.tar.gz
- 
-# win8.1emb_x64.tar.gz:
-bash InstallNET.sh -dd 'https://www.lefu.men/gdzl/?id=1cqVl2wSGx92UTdhOxU9pW3wJgmvZMT_J'
-  https://image.moeclub.org/GoogleDrive/1cqVl2wSGx92UTdhOxU9pW3wJgmvZMT_J
-  https://image.moeclub.org/win8.1emb_x64.tar.gz
+# win7emb_x86.tar.gz：
+https://image.moeclub.org/GoogleDrive/1srhylymTjYS-Ky8uLw4R6LCWfAo1F3s7
+
+# win8.1emb_x64.tar.gz：
+https://image.moeclub.org/GoogleDrive/1cqVl2wSGx92UTdhOxU9pW3wJgmvZMT_J
+
+# win10ltsc_x64.tar.gz：
+https://image.moeclub.org/GoogleDrive/1OVA3t-ZI2arkM4E4gKvofcBN9aoVdneh
+
 ```
 
 ## 一些提示:
